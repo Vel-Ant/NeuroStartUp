@@ -6,6 +6,7 @@
 2. Высокая скорость поиска
 3. Низкая цена
 
+## Список клиентов
 Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
 1. ООО «Рога и копыта»
@@ -15,5 +16,5 @@
 
 <em>Нас можно найти в</strong>  
 <a href="https://google.com"> 
-<img src="image/Google_logo.png" wight="150" height="54" alt="google.com">
+<img src="Google_logo.png" wight="150" height="54" alt="google.com">
 </a>
